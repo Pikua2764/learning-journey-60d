@@ -1,0 +1,5 @@
+Count: 10
+Sum: 186
+Min: 7
+Max: 40
+Duplicates: 7, 15, 22
