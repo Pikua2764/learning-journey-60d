@@ -1,0 +1,23 @@
+STUDENT PERFORMANCE ANALYSIS
+============================
+
+STUDENT AVERAGES:
+================
+Amit: 84.33
+Priya: 91.67
+Rahul: 71.00
+Sneha: 87.33
+
+
+HIGH ACHIEVERS (ABOVE 85):
+=========================
+Priya: 91.67
+Sneha: 87.33
+
+
+SUBJECT TOPPERS:
+===============
+Math: Priya (92 marks)
+Science: Sneha (90 marks)
+English: Priya (95 marks)
+
